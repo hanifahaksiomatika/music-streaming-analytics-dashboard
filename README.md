@@ -1,6 +1,6 @@
 # 🎵 Music Streaming Listener Behavior Analytics Dashboard
 
-![Dashboard Preview](music dashboard).jpg
+![Dashboard Preview](music dashboard.jpg)
 
 ## Project Overview
 An interactive Power BI dashboard designed to analyze user behavior and music consumption habits across major digital streaming platforms (e.g., Spotify, Apple Music, YouTube Music). This dashboard provides a comprehensive view of listener engagement—ranging from average listen time and skip rates to genre preferences and feature adoption across different subscription tiers and age demographics.
